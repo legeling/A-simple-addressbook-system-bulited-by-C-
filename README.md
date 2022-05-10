@@ -1,2 +1,2 @@
-# A-simple-addressbook-system-bulited-by-C-
-A simple c++ case just for learning 
+# A simple addressbook system
+A simple address book management system, there are some known bugs, for example, after entering illegal format will infinitely enter the dead loop ..QAQ ~
